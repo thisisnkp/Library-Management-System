@@ -13,7 +13,7 @@ Library Management System in NodeJs and EJS
 - Payment management
 
 ## Technical Requirements
-- Node.js
+- **Node.js** (22.9.0)
 - Express.js
 - EJS
 - EJS-Layout
