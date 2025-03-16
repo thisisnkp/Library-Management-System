@@ -1,0 +1,27 @@
+{
+  "name": "lms-v1.0",
+  "version": "1.0.0",
+  "description": "This is a library management system in Node js and EJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisisnkp/Library-Management-System.git"
+  },
+  "keywords": [
+    "lms",
+    "liraby-management-system",
+    "libraby",
+    "management",
+    "system",
+    "pustkalay"
+  ],
+  "author": "Neeraj Krishna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thisisnkp/Library-Management-System/issues"
+  },
+  "homepage": "https://github.com/thisisnkp/Library-Management-System#readme"
+}
